@@ -1,0 +1,2 @@
+# MLdotNETTutorial
+ML.NET CLIのチュートリアルやったやつ
